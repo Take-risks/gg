@@ -9,6 +9,7 @@ public class hello {
         System.out.println(s);
         int j=9;
         System.out.println("hello world!!!");
+        System.out.println("hello git!!!");
 
     }
 }
